@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @ZahraaTar
-- 👀 I’m interested in Reading novels
+- 👋 Hi, I’m @ZahraaTarhini
 - 🌱 I’m currently learning Computer Science
 
 
